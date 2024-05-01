@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "AmoTube (Amoled YouTube)",
+  "version": "1.0",
+  "permissions": ["scripting", "activeTab"],
+  "content_scripts": [
+    {
+      "matches": ["https://www.youtube.com/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
