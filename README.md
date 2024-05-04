@@ -3,14 +3,12 @@ Chrome extension that makes YouTube AMOLED.
 
 Good for your eyes, good for your screen (and your battery, if you have one)
 
-# Warning
-This is a WIP and sometimes the tweaks may not work.
-
-If you know anything to fix these issues, make a PR and I'll see if it is ok.
-
 # Read this first
 ### Stable relase install
 If you want to install the stable releases, go to `chrome://flags` and search for the `#extension-mime-request-handling` flag and set it to `Always prompt for install`.
+
+### WIP: bugs and tests
+This is a WIP and sometimes the tweaks may not work. If you know anything to fix these issues, make a PR and I'll see if it is ok.
 
 # Installation
 ### Alternative #1 - nightly (recommended)
