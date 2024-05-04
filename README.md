@@ -1,5 +1,6 @@
 # AmoTube (AMOLED YouTube)
 Chrome extension that makes YouTube AMOLED.
+Good for your eyes, good for your screen (and your battery, if you have one)
 
 # Warning
 This is a WIP and sometimes the tweaks may not work.
