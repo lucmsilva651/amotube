@@ -9,3 +9,9 @@ window.onload = function() {
   document.documentElement.style.setProperty('--yt-spec-raised-background', '#0f0f0f');
   document.documentElement.style.setProperty('--yt-spec-menu-background', "#0f0f0f");
 }
+
+function refresh() {    
+    setTimeout(function () {
+        location.reload()
+    }, 100);
+}
