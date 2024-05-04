@@ -5,6 +5,8 @@
   "author": "lucmsilva651@gmail.com",
   "description": "Chrome extension that makes YouTube AMOLED.",
   "permissions": ["scripting", "activeTab"],
+  "incognito": "not_allowed",
+  "update_url": "https://github.com/lucmsilva651/amotube/raw/main/updates.xml",
   "icons": {
     "16": "assets/icon16.png",
     "48": "assets/icon48.png",
