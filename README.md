@@ -9,18 +9,18 @@ This is a WIP and sometimes the tweaks may not work.
 If you know anything to fix these issues, make a PR and I'll see if it is ok.
 
 # Installation
-### Installation (Alternative #1)
+### Alternative #1 - nightly (recommended)
 1. Download and install [Git](https://git-scm.com) if you do not have it installed already.
 2. Open your Terminal or Command Prompt
 3. Clone the repo using the command `git clone https://github.com/lucmsilva651/amotube`
 4. Visit `chrome://extensions/` and turn on developer mode (toggle in top right).
 5. Click `Load unpacked` and select the directory you clone the repository to.
 
-### Installation (Alternative #2)
+### Alternative #2 - stable
 1. Go to `chrome://extensions` and enable developer mode (toggle in top right).
 2. Download the .crx from [Releases](https://github.com/lucmsilva651/amotube/releases/latest/) and drag-and-drop it onto the `chrome://extensions` page.
 
-### Installation (Alternative #3)
+### Alternative #3 - stable
 1. Download the .crx from [Releases](https://github.com/lucmsilva651/amotube/releases/latest/) and extract the contents to a folder.
 2. Visit `chrome://extensions/` and turn on developer mode (toggle in top right).
 3. Click `Load unpacked` and select the directory you extracted the crx to.
