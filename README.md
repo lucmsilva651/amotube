@@ -8,6 +8,10 @@ This is a WIP and sometimes the tweaks may not work.
 
 If you know anything to fix these issues, make a PR and I'll see if it is ok.
 
+# Read this first
+### Stable relase install
+If you want to install the stable releases, go to `chrome://flags` and search for the `#extension-mime-request-handling` flag and set it to `Always prompt for install`.
+
 # Installation
 ### Alternative #1 - nightly (recommended)
 1. Download and install [Git](https://git-scm.com) if you do not have it installed already.
@@ -16,11 +20,11 @@ If you know anything to fix these issues, make a PR and I'll see if it is ok.
 4. Visit `chrome://extensions/` and turn on developer mode (toggle in top right).
 5. Click `Load unpacked` and select the directory you clone the repository to.
 
-### Alternative #2 - stable
+### Alternative #2 - stable ([read this first](https://github.com/lucmsilva651/amotube/blob/main/README.md#read-this-first))
 1. Go to `chrome://extensions` and enable developer mode (toggle in top right).
 2. Download the .crx from [Releases](https://github.com/lucmsilva651/amotube/releases/latest/) and drag-and-drop it onto the `chrome://extensions` page.
 
-### Alternative #3 - stable
+### Alternative #3 - stable ([read this first](https://github.com/lucmsilva651/amotube/blob/main/README.md#read-this-first))
 1. Download the .crx from [Releases](https://github.com/lucmsilva651/amotube/releases/latest/) and extract the contents to a folder.
 2. Visit `chrome://extensions/` and turn on developer mode (toggle in top right).
 3. Click `Load unpacked` and select the directory you extracted the crx to.
