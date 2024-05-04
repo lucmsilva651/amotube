@@ -2,11 +2,18 @@
   "manifest_version": 3,
   "name": "AmoTube (AMOLED YouTube)",
   "version": "1.0.1",
+  "author": "lucmsilva651@gmail.com",
+  "description": "Chrome extension that makes YouTube AMOLED.",
   "permissions": ["scripting", "activeTab"],
+  "icons": {
+    "16": "assets/icon16.png",
+    "48": "assets/icon48.png",
+    "128": "assets/icon128.png"
+  },
   "content_scripts": [
     {
       "matches": ["https://www.youtube.com/*"],
-      "js": ["content.js"]
+      "js": ["amotube.js"]
     }
   ]
 }
