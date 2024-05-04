@@ -6,6 +6,21 @@ This is a beta version and sometimes it may not work.
 
 If you know anything to fix these issues, make a PR and I'll see if it is ok.
 
+# Screenshots
+<details>
+  <summary>Screenshot 1 (YouTube Video Page)</summary>
+  <br>
+  
+![](https://telegra.ph/file/457d96c874e42fcb6c0c3.jpg)
+</details>
+
+<details>
+  <summary>Screenshot 2 (YouTube Home Page)</summary>
+  <br>
+
+![](https://telegra.ph/file/649e1a03c2ddbc8d7fee5.jpg)
+</details>
+
 # Installation
 ### Installation (Alternative #1)
 1. Go to `chrome://extensions` and enable developer mode (toggle in top right).
