@@ -1,4 +1,4 @@
-# AmoTube (Amoled YouTube)
+# AmoTube (AMOLED YouTube)
 Chrome extension that makes YouTube AMOLED.
 
 # Warning
