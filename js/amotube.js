@@ -1,13 +1,14 @@
-// Getting current primary_color value
+// getting current bgcolor value
 var style = getComputedStyle(document.documentElement);
-var prim_color = style.getPropertyValue('--yt-spec-brand-background-primary');
+var bgcolor = style.getPropertyValue('--yt-spec-base-background');
 
-// We are going to set the theme if color is not white.
-// if prim_color is #fff, it means it's on dark mode
-if(prim_color == "#fff"){
-  console.log("It's light so theme won't be applied")
-}else{
+// we are going to set the theme if the theme itself is only on dark
+// if bgcolor is not #fff, it means it's on dark mode
+if(bgcolor == "#fff") {
+  console.log("Light theme active")
+} else {
   setTheme();
+  console.log("Dark theme active")
 }
 
 function setTheme(){
