@@ -14,7 +14,7 @@ Good for your eyes, good for your screen (and your battery, if you have one)
 
 - This is a WIP and sometimes the tweaks may not work. If you know anything to fix these issues, make a PR and I'll see if it is ok.
 
-## Extension ID
+### Extension ID
 
 - When you install [nightly](https://github.com/lucmsilva651/amotube/tree/main#alternative-1---nightly-recommended) builds, you will not have some extended update support.   
   
