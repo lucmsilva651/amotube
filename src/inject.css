@@ -12,6 +12,13 @@
   --yt-spec-menu-background: #0f0f0f !important;
 }
 
+html,
+body,
+.ytSearchboxComponentInputBoxDark,
+.ytSearchboxComponentSearchButtonDark {
+  background-color: #000 !important;
+}
+
 /* * {
   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
 } */
