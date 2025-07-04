@@ -1,0 +1,15 @@
+:root {
+  --ytd-searchbox-background: #000000 !important;
+  --ytd-searchbox-legacy-button-color: #000000 !important;
+  --ytd-searchbox-legacy-border-color: #0f0f0f !important;
+  --ytd-searchbox-legacy-button-border-color: #0f0f0f !important;
+  --yt-spec-outline: #0f0f0f !important;
+  --yt-spec-base-background: #000000 !important;
+  --yt-spec-additive-background: #0f0f0f !important;
+  --yt-spec-raised-background: #0f0f0f !important;
+  --yt-spec-menu-background: #0f0f0f !important;
+}
+
+* {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
+}
