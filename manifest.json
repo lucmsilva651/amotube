@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "AmoTube (AMOLED YouTube)",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "author": "lucmsilva651@gmail.com",
   "description": "Chrome extension that makes YouTube AMOLED.",
   "update_url": "https://raw.githubusercontent.com/lucmsilva651/amotube/main/updates.xml",
