@@ -8,6 +8,7 @@
   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqch+FOiEwquraKO0VcCW0VuYQZ9epFnGtg/wYUYhwE6Qa7AstRlDka6tEGt9lYG2D58rIGHsyTW4hznG2QIgmMWE2TdU+AM9n86n0eJzHhrUTVCg1m65xxdaq+DpYBdCLkUKo53HmJ6fw1KMwC+Q0vpULTI9qwvdp2WxZKB8/C4G3gMVez//0I4+mOAa7PApNX+MH0n9PmFh+p2i/+TIynDp5IHvKwfn9zVYrFI8ppFp5lj/q+1HgKcCejK7Cf49KkzVjNFn6rJ0hodP6UZT+P9sJqpRtJbCApMdco0gdiQsl48TuWelhzk6e14t5KA6WdsB3DEITRzc0I6Gv095zwIDAQAB",
   "icons": {
     "16": "assets/icon16.png",
+    "32": "assets/icon32.png",
     "48": "assets/icon48.png",
     "128": "assets/icon128.png",
     "500": "assets/icon500.png"
